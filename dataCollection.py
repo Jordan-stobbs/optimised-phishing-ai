@@ -38,9 +38,9 @@ from collections import Counter
 # In[ ]:
 
 
-apiKeyUrlscan   = "9d03419d-e8e4-4e63-899f-4730e36728f0"
-apiKeyPhishTank = "249e1887501ddd364099aaabecdb258e1d18228af11ce4534fe2b08d4747fc2d"
-apiKeyGoogleSafeBrowsing = "AIzaSyBt4G0Lo0ysc5GTnKgbLUjr29qjaurVjA0"
+apiKeyUrlscan   = ""
+apiKeyPhishTank = ""
+apiKeyGoogleSafeBrowsing = ""
 
 phishTankUrl       = "http://data.phishtank.com/data/"+apiKeyPhishTank+"/online-valid.json"
 urlscanScanUrl     = "https://urlscan.io/api/v1/scan/"
